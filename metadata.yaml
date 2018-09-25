@@ -1,5 +1,8 @@
 _repo: Under-Lock-and-Key-Volume-III-of-3-A-Story_57296
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Speight, T. W. (Thomas Wilkinson)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '49303'
     url: http://www.gutenberg.org/2009/agents/49303
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57296#Under-Lock-and-Key-Volume-III-of-3-A-Story
 gutenberg_issued: '2018-06-09'
 gutenberg_type: Text
 identifiers:
